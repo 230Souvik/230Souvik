@@ -1,3 +1,5 @@
+
+![logo](https://github.com/230Souvik/230Souvik/blob/main/113-1138414_computer-science-png-png-download-computer-science-icon.png)
 <h1 align="center">Hi 👋, I'm Souvik Saha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt "coding" widh="400" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
